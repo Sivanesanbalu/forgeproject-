@@ -1,0 +1,7 @@
+transformers
+torch
+pandas
+pyttsx3
+openai-whisper
+sounddevice
+numpy
