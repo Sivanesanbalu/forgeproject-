@@ -1,1 +1,1 @@
-# forgeproject-
+Phase 2- This phase enhances the base voice assistant by enabling it to understand wake words like “Hey Assistant” or “Hello Assistant” before activating, and by responding to user queries about an inventory from a CSV file. It uses Whisper (base) for speech recognition, Qwen 0.5B for answer generation, and pyttsx3 for offline speech synthesis.
